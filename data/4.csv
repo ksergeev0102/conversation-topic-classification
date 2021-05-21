@@ -1,0 +1,507 @@
+,topic,utterance_id,message,conversation_id
+1,Politics,521,"Every time a new state is added to the United States, we gain two senators.",23
+0,Other,522,true but that has been some time.,23
+1,Politics,523,"Yes, over 50 years.  If Puerto Rico becomes a state, we will have 102 senators",23
+1,Politics,524,I don't see that happening especially with who the current president is,23
+1,Other,525,I agree.  Did you know that women weren't allowed to wear pants as a senator until 1993?,23
+1,Other,526,I remember that. It caused a big stink. I think sometimes our elected leaders are still stuck in those days still,23
+1,Politics,527,But the senate does keep candy by the entrance to the chamber.,23
+1,Phatic,528,I wonder who eats the most candy...lol,23
+1,Phatic,529,It must keep attendance. up.,23
+1,Other,530,I am watching the news right now and a live stream of senate floor and I don't see anyone grabbing any candy from the dish at the moment. lol,23
+1,Politics,531,Did you know that there are dedicated subways to shuttle congressmen between the Capitol and their offices?,23
+1,Other,532,I did.  I have been watching teh Senators this week take the hallway to the subway a lot on the media when they do interviews,23
+1,Other,533,It's a good place to hide out.,23
+1,Politics,534,Our current president is make life difficult for the Senate. Hemight be wealthy but he is no JFK or Washington for sure,23
+1,Politics,535,"They say that the richest presidents were Washington, Jefferson and JFK.  I wonder where Trump ranks..",23
+1,Other,536,I would guess the bottom,23
+1,Politics,537,But he still gets to keep the money.  And it used to be that the Vice President was the runner up in the Presidential election.  Can you imagine VP Clinton with President Trump?,23
+1,Phatic,538,That would be awesome right now,23
+1,Politics,539,He was elected because people were sick of Washington business as usual.  And we got someone who is the anti-Washington business as usual.,23
+1,Other,540,Good in concept but a horrible choice for a practitioner,23
+1,Phatic,541,It's been good talking to you.  Enjoy the holidays!,23
+0,Entertainment,542,Do you like comedies?,24
+1,Celebrities,543,I sure do. Did you know Chapman from Monty Python was a doctor?,24
+1,Celebrities,544,"No, I didn't know that. Are you a Bill Murray fan?",24
+1,Other,545,Yes he gave up his practice to turn to comedy. Yes I sure am,24
+0,Entertainment,546,"Interesting. I liked the movie Groundhog day, have you seen it?",24
+1,Phatic,547,"Nice I do not think I have seen it, it is any good?",24
+0,Other,548,It's pretty good. Not as good as Stripes though.,24
+1,Movies_TV,549,DO you ever watch the COmedy Central?,24
+1,Phatic,550,I don't anymore. I heard they cancel too many shows. Any idea how many?,24
+0,Phatic,551,They have cancelled more than 100 since 1989,24
+1,Other,552,"Wholly Molly! That is a lot, do you know why?",24
+1,Phatic,553,Maybe they just were not up to what they wanted? Just guessing though,24
+1,Phatic,554,"Interesting. By the way, do you watch TV?",24
+1,Movies_TV,555,Yes I do. Do you ever watch the SNL?,24
+0,Other,556,"No, it is horrible. I used to a long time ago when it was funny. What about your?",24
+1,Movies_TV,557,I watch the Weekend Update sometimes which is the longest running skit there,24
+1,Celebrities,558,"Yeah, I know it. I remember when Dennis Miller used to host it. That was when it was good. Now, eh....",24
+1,Movies_TV,559,Yeah. Do you ever watch the SImpsons?,24
+0,Other,560,"I used to when I was younger, not so much now. Well, nice chatting with you!",24
+1,Phatic,561,"Same here, and have a great one",24
+1,Sports,563,"Hello there, do you follow baseball at all?",25
+1,Sports,564,"I know a little bit, I usually watch around tournament times.  I know it is so popular in Japan they were surprised America claimed it as their pastime.",25
+0,Phatic,565,"Yeah that is so interesting how popular it is over there, and how the young people are so surprised when they hear it wasn't invented there.",25
+1,Sports,566,Did you know that until 2005 a married couple scheduled all of the games for the season?,25
+1,Sports,567,"No, that is awesome though!  I wonder how they ever got into that job in the first place?",25
+1,Sports,568,"I dont know, but scheduling out all 2430 games must be no easy task.",25
+1,Sports,569,"No it can't be, and not all teams have roofs on their ballparks and all the different climates and all, tough work.",25
+1,Sports,570,Do you know why managers wear uniforms?,25
+1,Sports,571,I read that they are able to play if needed!  That would be so cool (barring major injury) to see your manager take a bat!,25
+1,Sports,572,I wonder if it has ever been a need?  But it would be neat to see them step up,25
+1,Phatic,573,"Yeah I think I am going to look that up, very interesting baseball fact if it did happen.",25
+1,Other,574,"I ve heard that old baseball cards can be worth millions, I never collected as a kid, but my brother did.",25
+1,Other,575,"They can be, did you hear about the guy who found a 3 million dollar card collection in his grandfather's attic?",25
+1,Other,576,Thats crazy!  I should have my bother check out his cards.  They would probably have to be pretty old and rare to be worth that much though.,25
+1,Other,577,"You should, I know I used to collect any Ken Griffey Jr. card that I could find, I should go check those out.",25
+1,Literature,578,There are also some first edition books that are worth a lot of money too.,25
+1,Literature,579,"I agree, I really like finding old books at my local thrift shop.  Do you know what kickball is called in Canada?",25
+1,Sports,580,I heard it is called soccer-baseball.  An accurate name if you ask me.,25
+1,Phatic,581,"Good call, and yeah accurate, but not the easiest to say lol.",25
+1,Phatic,583,"Well it was nice talking with you today, I hope you enjoy the rest of the day.",25
+1,SciTech,584,Hey how's it going. I think animals are so fascinating and I love learning about them. Did you know there are about 20 quintillion individual animals on planet earth?,26
+1,Other,585,That is how many zeroes ? Does it count insects ?,26
+1,SciTech,586,I don't believe it counts insects. But yes a lot of zeros. Over 1.5 million living animal species have been described.,26
+1,Pets_Animals,587,"By definition animal are multi cellular and eukaryotic, so it includes insects.  I just remember. Which is your favorite animal ?",26
+1,Pets_Animals,588,Oh nice good call. I love wolves. I would like to know more about them. Apparently the study of animals is called zoology.,26
+1,Pets_Animals,589,"And they have a long history, there are animals on earth since 542 million year ago.",26
+1,SciTech,590,That is amazing. They are of all shapes and sizes to ranging in length from 8.5 millionth of a meter to 33.6 m.,26
+1,Pets_Animals,591,"Yeah, Whenever I have hiccups, I think about the fact that is from the time that animals had lungs and gills.",26
+0,Games,592,Yeah pick ups are so annoying. I wonder when evolution will finally released their hold on us LOL.,26
+1,SciTech,593,Maybe in another 542 million years...,26
+1,Pets_Animals,594,Yes perhaps. I like how some countries protect animals. Scotland even protects fantasy animals like the Loch Ness monster.,26
+1,Politics,595,"That is funny, but more seriously Germany gave constitutional  right to animals, do you think they went too far ?",26
+1,Pets_Animals,596,I think animal should be protected but I think it's kind of funny that they were given rights. That happened a while back in 2002 I wonder if anything has changed since?,26
+1,Literature,597,"Maybe they when back to when animals had no rights because it created too much drama, do you like dramas ?",26
+1,Literature,598,Yeah I love dramas! Aristotles Poetics were actually the earliest work of dramatic theory.,26
+1,Literature,599,"Humans like to listen to stories, you can even listen to old radio dramas on the web, have you ever listened to one ?",26
+1,Other,600,Oh nice. I never have but it sounds like there are thousands to choose from!,26
+1,Movies_TV,601,"There are really good and relaxing, it is less engaging for the eyes than watching a drama on TV.",26
+1,Celebrities,602,Yeah and perhaps more stimulating. Michael Caine became a drama actor to get close with all the pretty girls!,26
+1,Celebrities,603,"Jon Hamm taught drama in high school, I hope it was not because of the pretty girls.",26
+1,Celebrities,604,Haha maybe it was too. He taught Ellie Kemper who acted in The Office-a great show! Well it was great talking with you today! Hope you have a good rest of your day.,26
+1,Phatic,605,Thanks have a good day.,26
+1,Movies_TV,606,Hey would you ever watch Harry Potter on Broadway? I think they're coming out with it,27
+1,Movies_TV,607,I would watch it. I loved the books and the movies. Did you like them?,27
+1,Movies_TV,608,"No I never read them, I only like some of the movies, so this probably wouldn't be for me but I might watch it if I had a free ticket LOL",27
+1,Entertainment,609,Do you ever go to musicals or the theater?,27
+1,Entertainment,610,"I used to go to operas a lot. We live by in opera house that is closed, but I haven't been there in a while, what about you? And what is your favorite Harry Potter book by the way?",27
+1,Movies_TV,611,I loved the Prisoner of Azkaban. I liked Sirius Black's character. I go almost every year to a show. I live in chicago so it's close,27
+1,Literature,612,Yeah that makes sense. I can't believe that JK Rowling was turned down by 12 Publishers before she finally found someone to make her books slow,27
+1,Literature,613,So sad the an owl sanctuary was needed to house abandoned owls from the books...,27
+1,Celebrities,614,"People don't think through their decisions like getting pet owls unfortunately, it's interesting that Michael Jackson wanted to do a Harry Potter Musical though",27
+1,Celebrities,615,"Speaking of weird pets, Michael Jackson had a collection too! Rowling wanted an all british cast.",27
+1,Movies_TV,616,"Yes I think that makes sense. It's funny that Warner Brothers was going to threaten movie theaters if they ever put up a poster that parodied Harry Potter, I guess they were worried about their bottom line",27
+1,Movies_TV,617,I suppose. I wonder why that is the movie they drew the line in the sand on? But when you,27
+1,Movies_TV,618,"Yes I don't know, but I do know that Harry Potter made a lot of money at the box office, who do you think is the top worldwide star for film earnings at the box office by the way?",27
+1,Other,619,"Sorry, the ""'"" is too close to the enter button... But when you're that big, you can make demands... I have no idea who the top earner is. Do you know?",27
+1,Movies_TV,620,"Yes it's Tom Hanks actually. He's made over  8.5 billion dollars at the box office worldwide, that's insane!",27
+1,Other,621,Makes sense but that a lot of money! Wow!,27
+1,Movies_TV,622,Yes exactly! What do you think about Disney almost shutting down there Animation Studio? Sleeping Beauty apparently didn't make much money yet it's one of my favorite movies,27
+1,Other,623,That would have been short sighted and such a loss!,27
+1,Movies_TV,624,Yes I agree. Did you ever see the movie Trojan Wars by the way? And only need about $300 at the box office LOL,27
+1,Movies_TV,625,"$300!!!!???? What a dud! Did you see it? Well, the odds are that you did not...",27
+1,Movies_TV,626,"Haha nope definitely didn't see it, have you seen the Disney movie Treasure Planet though? It was based on the book Treasure Island",27
+1,SciTech,627,So what do you think about home schooling?,28
+1,SciTech,628,"I think it's great! It's not for everyone, but it's a good option for families and students to have. Did you know that 1.8 million students are home schooled?",28
+1,Religion,629,"Yes, I did. That's actually a surprisingly large number if you think about it. Did you know that most kids who are homeschooled are because of religious reasons?",28
+1,Other,630,"Yes, two thirds. But there are lots of good reasons for home schooling. I think it's too bad that it gets so much bad press.",28
+1,Other,631,I think one of the best reasons would be for the ability to learn at your own pace as a kid.,28
+1,Other,632,"Yes, definitely. To be able to learn more and to be free from the negative stuff that a lot of kids deal with in schools.",28
+1,Other,633,"Agreed, especially since most of junior high and high school was really just learning how to deal with difficult people and do pointless work. Most of the information and skills needed for college weren't taught.",28
+1,Other,634,Exactly. A lot of it is just learning your place in the social pecking order and doing boring work without learning anything.,28
+1,Other,635,"I will say, however, there is something to be said for learning the social pecking order and dealing with boring, inane, work. Mostly that, unless you're one of the lucky ones, you'll have a job or nine at some point in your life that's filled with jerks and are your bosses and boring inane work.",28
+1,Literature,636,"Yes, that's true. Did you know there was widespread panic in the 18th century because novels were becoming popular?",28
+1,Literature,637,"I don't know if it was a widespread panic, I had heard there was a moral panic but I don't know how large it was. I mean, I could have been like 100 people getting together to complain loudly and it made it into the history books, you know.",28
+1,Other,638,This is true. It was a moral outcry.,28
+1,Literature,639,"I'm not really sure what was going on in the 18th century, or what was being written, to get people into a tizzy over books. What do you think their problem was?",28
+1,Literature,640,"It was new(ish) and unregulated. Anything could be published. As printing became more affordable, there wasn't much oversight. Novels had existed for a long time, but their audience had been smaller because fewer people could read and publishing involved a bigger investment.",28
+1,Phatic,641,That's eerily reminiscent of the early 90s into the 2000s with the internet.,28
+1,SciTech,642,"Exactly. Like the internet of the early 2000s when suddenly a lot more people were online, and it was a free for all. Publishing had been like the 20th century internet - limited to people with higher incomes or higher education levels, for the most part. I heard the speed reading record is 4700 wpm. I wonder how that would be calculated. That can't be for reading out loud.",28
+1,SciTech,643,"Most likely they are given a set block of information to read, they read it starting and stopping a timer, and then are judge on comprehension to determine how much they actually read. The's the weird thing about speed reading, you can skim 50% of it and still get the required information and context of most blocks of text.",28
+1,SciTech,644,Right. I wonder how much speed readers skim.,28
+0,Other,645,"When it comes to sighted reading, a lot. I'm not sure about something like Braille though.",28
+1,Literature,646,"Yes, I wonder if they have Braille speed reading contests.",28
+1,Literature,647,We have competitions for everything. I would have to assume that we would even with a tactile reading language like Braille. It's just something we has humans do.,28
+1,Phatic,648,"Yes, I agree. I'm going to look it up now. Have a great day! It's been good talking to you!",28
+1,Pets_Animals,649,Do you like horses?,29
+1,Pets_Animals,650,"Hi there, I do like horses, but haven't gone riding since I was a young kid.  How about you?",29
+1,Celebrities,651,I do too. Did you know Clint Eastwood is allergic to horses?,29
+0,Other,652,"I think I heard about that before, so crazy because how many movies has he starred in where he was on a horse or near them.",29
+0,Other,653,"Yeah, I wonder if he has to take anything for that?",29
+0,Other,654,"That is a good point, I'm sure he does.  Did you hear about the high school kids who rode their horses to school?",29
+0,Other,655,"Apparently they got suspended, right?",29
+0,Other,656,"Yeah they sure did, I think it was during a 'no vehicles to school day' and they tried to be clever, I think they were.",29
+1,Pets_Animals,657,WOW! Poor kids. Did you know that Icelandic horses have a fifth speed?,29
+1,SciTech,658,I think I heard about that as well.  I wonder what that fifth trot speed looks like?  I'm sure there is a YouTube video out there.,29
+1,Sports,659,I heard it is called the tolt.,29
+0,Celebrities,660,Lol!  That is pretty funny.  Do you know the name of the horses who perform classical dressage performances?,29
+1,Pets_Animals,661,Are they Lipizzaner horses?,29
+1,Pets_Animals,662,"Good call!  Yeah that's the name, but I am curious to see what that all looks like?",29
+1,Pets_Animals,663,"I think they are born black and brown, but then turn completely white.",29
+1,Phatic,664,"That is amazing, I wonder how and why that happens?",29
+1,Music,665,I'm not sure. Good question. Do you like Fenders?,29
+1,Music,666,"I sure do, the Fender Stratocaster is one of the coolest guitars there are, how about you?",29
+1,Phatic,667,"Yup, I have 3 strats to be honest. I love them, they are super light. Well, nice chatting with you!",29
+1,Phatic,668,"Wow!  That is very cool, I bet they are really fun to play too!",29
+1,Phatic,669,Yeah they are. Well take it easy today!,29
+1,Phatic,670,"Yeah you too, have a good day!",29
+1,Entertainment,671,Hi. Do you like to travel?,30
+1,Entertainment,672,"Pay their I do like to travel. I just got back from Florida, it was in Naples, where do you like to travel to",30
+1,Entertainment,673,"When I go to Florida, I like to visit Disney World. Did you know the Disney company has been around since 1923?",30
+1,Other,674,"No I didn't know that that's a long time, it's interesting that they change their name to the Walt Disney Company in 1986",30
+1,Other,675,"Yeah, they were originally the Disney Brothers Cartoon Studio, since two brothers founded the company.",30
+1,Celebrities,676,Yeah that makes sense. Did you know that Minnie Mouse's real name is Minerva by the way,30
+0,Entertainment,677,I had no idea! Disney makes more money than NBCUniveral and WarnerMedia. They are a huge company!,30
+1,Movies_TV,678,"Yep they absolutely are huge company! What do you think about people that go through Disney movies to try to find the""Hidden Mickey Mouse""images in them",30
+1,Movies_TV,679,That's an interesting hobby! Did you know that the robot Wall-e was named after Walt Disney? His middle name was Elias,30
+1,Movies_TV,680,"Wow well that makes sense, but also it makes sense that you would hire Bill Nye to be the science consultant for the movie Flubber, that is a movie that's not need a science consultant though LOL",30
+1,Entertainment,681,Haha. I guess they wanted it to be scientifically correct? Disney specialized in animation before they opened any theme parks.,30
+1,Other,682,Yeah I did know about that. I can't believe Disney was founded back in 1923 that is almost 100 years ago,30
+1,Phatic,683,That's pretty cool. Their headquarters is in California.,30
+1,Entertainment,684,"The office in Burbank California specific oh, I've never been there though I've only been to disney world in Orlando",30
+1,Other,685,"Me, too. Some people call Disney ""Mouse House"". I've never heard that one before.",30
+1,Literature,686,No I've never heard that either. How often do you read by the way? Have you ever read the book Starship Troopers,30
+1,Literature,687,"I have heard of that, but I never read it. It takes me a long time to read. Unlike Anne Jones who can read 4700 words per minute!",30
+0,Literature,688,"Yep that is a lot! And I did not read the book Starship Troopers but I did see the movie, apparently it is recommended by the US Military",30
+0,Politics,689,I heard 3 out of 5 branches recommend it. I wonder which three?,30
+0,Literature,690,"Haha that's a good point. The movie is actually very anti-military which is why I was curious if you had read the book, I was wondering if a book is different",30
+1,Literature,691,That's an interesting question. Ender's Game is also recommended by the military. Have you read that one? I haven't.,30
+1,Movies_TV,692,No I didn't read that book but I did watch the movie. The movie is kind of bad in my opinion and I even like Harrison Ford who stars in it,30
+1,Phatic,693,Good Morning! How are you today?,31
+1,Sports,694,"Hello, good thank you. Do you like baseball?",31
+1,Sports,695,"I like to watch it live, how about you? I always wondered why the managers wore uniforms too!",31
+1,Sports,696,I do too. Funny they can technically play if they are needed.,31
+1,Sports,697,I'd like to see a 75 year old manager take the field sometime haha. I wish I was the guy who found that valuable card collection in his grandpa's attic!,31
+1,Other,698,That would have been nice. I saw he found three million dollars worth!,31
+1,Sports,699,That would be a nice little find. I wonder if there are baseball cards in Japan since it is so popular there!,31
+1,Sports,700,I have heard that too. Did you know kickball in Canada is called soccer-baseball?,31
+1,Sports,701,"That would be hard to say ten times fast lol. I like how softball has made its way into our past time, but professionals only make 5000 to 6000 dollars!",31
+1,Other,702,I think so too. That's not a lot of money at all!,31
+1,Sports,703,"Not at all. I feel bad! I'm sure the YMCA was hoping for more success in volleyball, softball, and basketball when the invented it!",31
+1,Sports,704,Jose Conseco claims to hold the record for the longest softball homerun.,31
+1,Sports,705,Was this when he was taking steroids or before haha? I couldn't have sat through the 31 inning game when it happened in 1991!,31
+1,Sports,706,haha probably during his steroid use. That's way too long of a game for me too!,31
+1,Sports,707,I would be in my REM cycle on inning 10 haha. Did you know the first sporting event on ESPN was a slow pitch softball game?,31
+1,SciTech,708,I did not know that. Do you know much about telephones?,31
+1,SciTech,709,A little bit about Iphones. I know they have a crazy amount of computing power!,31
+1,SciTech,710,They have tons of computing power. More than the entire US nuclear ICBM deterrent system which is scary.,31
+1,Entertainment,711,So scary! I need to do the UNICEF challenge where they donate clean water to kids for every minute you're not on your cellphone!,31
+1,Phatic,712,That's very awesome they do that. Good for them.,31
+1,Phatic,713,"I'm going to go look into that. It was a pleasure chatting, have a great day!",31
+1,Entertainment,714,Do you watch basketball?,32
+1,Entertainment,715,I do watch some.  I heard it was invented by the ymca.  Do you watch?,32
+1,Celebrities,716,"Really, I think James Naismith invented it, was it at the YMCA. I like watching it NBA and college",32
+1,Celebrities,717,My mistake.  I like watching college too.  I like when players such as Tim Duncan stay in school to get their degree before going to the nba.,32
+1,Other,718,"Right, if i remember right, it was his last promise to his dying grandma. People like that make it awesome!",32
+1,Sports,719,They really do.  Especially when you think about how 60% of players are broke after retirement.,32
+1,Celebrities,720,"for sure, like allen iverson. I heard he is broke even though he has such a good reebok contract",32
+1,Sports,721,i heard about his contract.  He is broke?  Wow!  Word is that NBA players are the world's best paid athletes.,32
+1,Celebrities,722,Yea I heard he was asking for cheeesburgers from fans. When he turns 55 he gets like 32 million dollars,32
+0,Politics,723,"That is sad.  I guess some of those players just don't handle money right at all.  Spencer Haywood chose $100,000 over a 10% stake in nike. Had he chosen the stake it would be worth $8.62 billion now.",32
+0,Other,724,"yikes, poor guy. I don't know what I would do with my life lol. Are you a fan of jordan shoes?",32
+1,Celebrities,725,Not really. Those are the Michael Jordan ones right?,32
+1,Other,726,"yea, he used to wear them even though they were banned by the NBA, he got fined everytime but never paid it because nike did",32
+1,Other,727,I imagine there is a lot of money to be made by companies through advertising with the NBA.,32
+1,Other,728,"So much money I bet, I am sure it was like pennies to nike to pay for those fines",32
+0,Politics,729,"Totally.  The NBA just might have fined Nike to increase ratings and advertising revenue.  i mean, they fined a coach for saying they shouldn't play games on Christmas Day.",32
+1,Other,730,"wow, that is crazy. I agree with the coach, let them enjoy their time.",32
+1,Movies_TV,731,i agree with him too.  People can always watch dramas on tv on Christmas if they need to watch something.,32
+1,Phatic,732,"For sure, I like dramas! It was so nice chatting with you!",32
+1,Other,733,"I like them too.  I've heard about one called ikea heights that sounds like it might be interesting.  Well, It's been nice chatting with you as well! Have a great day!",32
+1,Phatic,734,Enjoy your day also!,32
+1,Sports,735,hi how are you? are you a baseball fan?,33
+1,Sports,736,Not at all. I'm not much of a sports fan of any kind. Are you?,33
+1,Sports,737,I follow baseball around the world series. Hm. What about star wars? that is a great film. do you like it?,33
+1,Movies_TV,738,"I loved the original trilogy, the prequels not so much. But I really need to rewatch them so I can watch the newer stuff and understand it. Are you a fan?",33
+1,Movies_TV,739,"The original was the bomb, as the kids say. I think that the later ones lacked a mysticism, a spiritualism that make the early ones fun. the graphics dont mean much to me.",33
+1,Movies_TV,740,"I just remember that the prequels all seemed to violate the implied past timeline and all the past worldbuilding in the OT.  Marcia Lucas might have made the difference in quality, you think?",33
+0,SciTech,741,"Yeah, george really needs help with story and character. creative guy, but without guidance, he doesnt pull together a story.",33
+1,Movies_TV,742,"I haven't seen The Force Awakens, The Last Jedi, or any of the new stuff and I'd like to. Have you seen them?",33
+1,Movies_TV,743,"I have, and for the most part, it feels like the directors are trying to capture the spirit of the trilogy, but it is not possible. maybe im old? LOL",33
+1,Movies_TV,744,"Anything would be an improvement over the prequels IMO. I don't know anything about the Extended Universe, but I've seen a lot of fans complaining that the new stuff erases it.",33
+1,Movies_TV,745,I would HATE to have to make a sequel. you cannot please everyone and there are so many complainers.,33
+1,Movies_TV,746,"Yeah. It would help for people to be less dogmatic about THE canon and allow for alternative fan canons, I think. I'm more of a Star Trek fan, and this applies there especially.",33
+1,Movies_TV,747,Star Trek has held up a bit better I find. There were like 80 episodes in TOS and a lot of variation in stories. It is more flexible.,33
+1,Movies_TV,748,I love the TNG universe more than any other part of the franchise.,33
+0,Literature,749,"I could see the appeal. the original was a morality play, but i was a kid and i didnt care. i caught TNG too late. i think the magic wore off by then.",33
+0,Politics,750,I was in my mid-20s when it came out.. But themes in post-scarcity communism generally fascinate me. I'm also fascinated by the technological presuppositions behind different fictional universes -- like all the stuff Frank Herbert had to jigger around to make feudalism feasible in Dune.,33
+1,Movies_TV,751,"ok, you like sci fi, and the serious stuff too. Herbert and Dune? that is serious stuff. I would love to see a show like that on tv, but maybe the fan base would not be big enough. Explosions! thats what people want.",33
+1,Movies_TV,752,LOL. The only video adaptation I've seen is the old Lynch movie. I really should check out subsequent treatments. I started watching an occasional episode of The Expanse just because I thought it would be an interesting comparison to Robinson.,33
+1,Movies_TV,753,"Yeah, the super extended directors special edition or whatever? i dont know the novels, and the movie was a bit confusing. The Expanse? ok, i'l check it out. Anyway, great chat!",33
+1,Movies_TV,754,"I think there's a bit more to go. There was a Dune miniseries, I think.",33
+1,Phatic,755,"Ok, ill look for that. thanks for the tip! Anyway, great chat! Have a good evening!",33
+1,Sports,757,"Do you like basketball, swimming or hockey? I like all of them...",34
+1,Sports,758,"I love swimming and basketball, but I've never been lucky enough to try hockey. Not enough ice where I live!",34
+1,Sports,759,Ha! Where do you live? I swam competitively for a long time so I have an affinity for it.,34
+1,Sports,760,"I live in the southwest USA desert. Not much in the way of water here either, but we've got some nice artificial pools. What kind of swimming did you do?",34
+1,Sports,761,"I swam in High school and college. Swam IM and back... Never where the athlete has their hands and legs bound, and swims like a dolphin.",34
+1,Sports,762,"That kind of swimming makes me feel nervous. If something went wrong, the last thing I'd want is bound hands. Did you have to pass a swimming test to graduate like students do at some universities?",34
+1,Sports,763,"No, I swam on the swim team. We traveled to competitions and swam other colleges. It was fun.",34
+1,Sports,764,Do you still swim for recreation or exercise?,34
+1,Other,765,"no, it became too much like work. what about you?",34
+1,Sports,766,"I only ever swim for fun, usually in the summer when it's hot. Never been quite good enough to compete. No Summer Olympian here!",34
+1,Entertainment,767,Nice. Do you like to watch the olympics?,34
+0,News,768,"I like to watch the events, but I usually skip the talking and backstories in between. The competition is the exciting part for me.",34
+1,Sports,769,Ditto. The united states has almost as many gold medals in swimming as the rest of the world combined.,34
+1,Sports,770,"That's incredible. I wonder who dominates Olympic hockey. I'd guess Canada, since they did so well in the first winter Olympics and it's their national sport.",34
+0,Music,771,I think so. Also Finland and those countries like Sweden.,34
+1,Sports,772,"If you could choose a type of hockey to try, would you pick bandy, field hockey, or ice hockey?",34
+0,Other,773,Ice. I think I would sweat a lot and the ice would help!,34
+1,Sports,774,"I think ice would be the most fun, but it would also be hard to learn to skate AND play the sport at the same time!",34
+1,Sports,775,Agreed. I have skated a lot and could never play hockey.,34
+1,Sports,776,I've only roller skated and discovered I'm super clumsy that way. Ice skating takes a whole different kind of balance. I do better when the ice is melted - can't fall down if I'm swimming in it!,34
+1,Sports,777,HA! That's a good attitude. An average professional hockey player will lose up to 8 pounds in one game.,34
+1,Other,778,That sounds like incredibly hard work!,34
+1,Other,779,"Yeah, i could not do it.",34
+1,Sports,780,Good thing you decided on swimming in school then!,34
+1,Phatic,783,Do you really think she died of lung cancer?,35
+1,Politics,786,"do you want ""Isn't it a pity that the UK is a 'no-fly' zone for publishing the truth about this group? These Kremlin-connected oligarchs feel free to buy Belgravia,",35
+1,Politics,787,"Yeah, She estimated that Putin's personal wealth at $40 billion",35
+0,Phatic,788,yeah but very costly,35
+1,Politics,789,It's sad that only super rich receive the greatest protection from the state.,35
+1,Phatic,791,She was very educated.,35
+1,Phatic,792,yeah very educated,35
+1,SciTech,793,Did you know that scientist Harrison schmitt was the only scientist to walk on the moon.,35
+1,Politics,794,yeah Schmitt resigned from NASA in August 1975 in order to run for election to the United States Senate as a member from New Mexico,35
+1,Music,795,Interesting. Do you enjoy jazz?,35
+1,Phatic,797,Me neither,35
+0,Politics,798,"ok sirand madam ,do you wand The short Russian flirtation with democratic norms in the 1990s, she said, had long since disappeared",35
+1,Politics,799,It is surprising that the US president's guest house is larger than the white house.,35
+1,Phatic,801,"It was nice talking to you, have a happy holiday.",35
+1,Phatic,802,"same to you sir ,have a happy hoilday",35
+1,Phatic,803,Bye,35
+1,Games,804,Have you ever played a virtual reality game?,36
+1,Games,805,"Hi! Yes and I love anything PlayStation, especially the PlayStation VR. Namely the game Moss which is like living inside a diorama to which you can manipulate bits of the scenery. What about you?",36
+1,Games,806,"I was able to play one once at Christmas, and I have a Gear VR, but I really want something more immersive and polished like the PS VR. That game sounds cool.",36
+1,Games,807,"Agreed! So you're a PlayStation fan? I remember when they launched in December of 94. Now here we are today with the PS4, PSP, etc. And it's crazy there are 41 million PlayStation Home users as well!",36
+1,Games,808,I like it better than the xbox. But I have only ever had a PlayStation 2. I heard the government once built a super computer out of 1760 PlayStations.,36
+1,Games,809,"That is crazy, isn't it? I would have loved to have seen it. I bet it was amazing! Ha! I mean, even PS3's are being used to research black holes. It's like they provide entertainment for civilians, scientists and government officials.",36
+1,Games,810,"Sony is having to make these amazing processors that are also affordable to kids, so I guess it's a cheaper way to get the processing power.I wish they still sold hard copies of games more though and digital wasn't so emphasized. I heard the original GTA game could be put ina CD player and would play the soundtrack",36
+1,Games,811,"Oh, yeah! I do remember putting it into the cd player and jamming out to the music. I wonder if any gaming discs do that today? Maybe FISA 14 can. Ha! Being the last game made for PS2 but also the first game to span three different console generations, there's no telling!",36
+1,Games,812,"What happens in that VR game you mentioned, Moss?",36
+1,Games,813,"It's like the new standard bearer for PSVR. Basically, it is a game that unfolds within the pages of an illustrated book. Speaking of books, what's your opinion on libraries?",36
+1,Literature,814,I don't really use them but they're important. I think they're becoming a little more obsolete now that the internet has everything from books to enormous numbers of educational texts. But back before computers they were a big deal. I heard this story about a British Prime Minister who personally opened a library with his personal collection. he carted them over in a wheelbarrow.,36
+1,Other,815,"That was great for him to do. You are right though, they are becoming obsolete but thankfully there are still more libraries out there than McDonald's plus half the adult population still have library cards, so there's hope. Ha!",36
+1,Literature,816,You can use your library card to check out books for your kindle or e-reader now. I personally love to do that. Even audiobooks. You can actually get a lot of things from libraries now. Like sewing machines and tools.,36
+1,Literature,817,"That is true. I actually heard about that very library in Sacramento and would love to check it out someday. But hey, it's too bad America can't be like Norway where the government buys 1000 copies of your book and distributes them to libraries across their country!",36
+1,Literature,818,"That's kind of crazy, a lot of people write awful books! But i guess Norway has a smaller population and they w ant to encourage their homegrown authors. Anyway I think television has taken a lot of people away from reading.",36
+1,Movies_TV,819,That is true and we're all guilty of watching too much television. I especially like the Simpson's although there's one episode where Bart never makes an appearance nor is he mentioned that I want to see but haven't yet!,36
+1,Movies_TV,820,"I haven't watched the Simpsons in years, but I was a little kid when it came out. That's crazy to think about. But I was a teenager when Pokemon started and it's already had 750 episodes. That makes me feel old.",36
+1,Movies_TV,821,Ha! Don't feel bad although that is a lot of episodes. Can you believe there's 750 Pokemon episodes and yet the UK remake of 70s Show lasted only ten episodes? That's kind of strange!,36
+1,Movies_TV,822,"UK shows don't go on forever, they usually run a series that is 6 episodes long and then might do another series. But it's not like the US where shows get on and go on til they're canceled.  You know they call it a Tele over there?",36
+1,Celebrities,823,"I wasn't aware of that but it doesn't surprise me. They have a different term for everything  - kind of like Thomas the Train has many different narrators for 52 episodes at minimum which includes Alec Baldwin, George Carlin and Ringo Starr!",36
+0,Other,824,It's funny how big stars will do little things like that. Well I've got to go!,36
+1,Movies_TV,825,"So true. Heck, it's even more surprising how courteous they can be at times - like how the Simpson's crew sent the South Park producers flowers after airing the Family Guy episode! Ha! Well it was great chatting with you! Have a wonderful evening!",36
+1,Phatic,826,"hi, do you enjoy dramas?",37
+1,Movies_TV,827,"If on TV or in the movies, but not at work! They don't pay be enough to endure drama in the workplace. Not like I am Hugh Laurie, pulling down $700k per episode of House!",37
+1,Phatic,828,That is amazing and it was a great show I really enjoyed it,37
+1,Celebrities,829,"Yeah, he is great, and a great dramatic actor! Not like Jim Carrey, who has sworn off doing dramas...",37
+0,Phatic,830,Do you know why he would make such a change ?,37
+1,Celebrities,831,He decided he only wanted to work on projects that project positivity. That appears to be his motivation.,37
+1,Celebrities,832,"Oh wow, good for him if he enjoys that. Have you heard of Michael Caine?",37
+1,Celebrities,833,Yeah. He's another good actor with a great range. Funny how he joined acting in pursuit of pretty girls!  That was his motivation!,37
+1,Celebrities,834,Hahaha go figure. Have you heard of Jon Hamm or Ellie Kemper?,37
+0,Celebrities,835,No. Are they actors?,37
+1,Celebrities,836,Yeah Jon Hamm is an actor and was Ellie's drama teacher too,37
+1,SciTech,837,"And now she is a star? You know, the biggest star in our galaxy is 1 billion times larger than the sun? Amazing!",37
+0,Other,838,that sure is And the sun is white not yellow,37
+1,SciTech,839,And iit produces enough energy in one second to meet the energy demand at earth for 500k years. That is white hot!,37
+1,SciTech,840,That is a lot of energy. yet a lightning bolt is way hotter than that,37
+1,SciTech,841,"How do we know this? Who has a thermometer that can go up that high in temperature?  Hot, really hot, hot as the sun, hotter than the sun, lightenting bolt hot...",37
+1,SciTech,842,I have no idea there must be some devices that make these measurement,37
+1,SciTech,843,"Wouldn't they melt? I don't know. I can't figure out how they know that it takes over 150 years for Neptune to circle the sun. By the time it circles the sun again, I hope to have mastered typing...",37
+1,Other,844,Yeah that is a long time. do you like horses?,37
+0,Celebrities,845,"No. I, like Dirty Harry (AKA Clint Eastwood) am allergic to horsehair. I like horseradishes though!",37
+1,Phatic,846,"Well, you like something related to the name at least. Nice chatting with you",37
+1,Music,847,"Morning, play guitar at all?",38
+1,Celebrities,848,"Like, say, Eric Clapton? I wish!! You?",38
+1,Music,849,"I do, Not like Clapton though. I'm more of an acoustic/folky guy. Did you know Brian May uses coins as guitar picks?",38
+1,Music,850,Heard that. Isn't that hard on the strings?,38
+1,Music,851,"Depends how hard you play and the thickness of the strings. Think he knows a thing or two though, he's an astrophysicist too.",38
+1,Celebrities,852,"Great, Queen's guitarist with a PhD! Why not? Do you like Eddie Van Halen?",38
+1,Music,853,He was very influential. Not really my thing though. He is a hell of a guitarist though.,38
+1,Celebrities,854,"Yeah, did the guitar solo on Michael Jackson's ""Beat It"". Folk guitar greats are overshadowed by rock guitarists, it seems.",38
+0,SciTech,855,"Yeah that solo set the speakers on fire. Must have turned it to ""11"".",38
+1,Celebrities,856,"I guess! Pink Floyd's guitarist set up a recording studio on a houseboat on the river, Thames. Funky, as they said in the 70's! Good acoustics on a river?",38
+1,Music,857,"Yes, The Astoria. Quieter for recording more than anything. Mics pick up everything.",38
+1,Music,858,"Yeah, tugboats, London city noise, the lot! Maybe that's what he was going for...Do you know the band, Muse?",38
+1,Other,859,"Yeah, good stuff. Supposed to be good live.",38
+1,Celebrities,860,"Their guitarist, Matthew Bellamy apparently holds the Guinness record for most guitars smashed on a tour. Punk-type band?",38
+1,Music,861,"More, indie rock, alternative rock.  Like to read?",38
+0,Literature,862,"Yes! Not a speed reader, though.",38
+1,Other,863,"Me either. The record holder can read 4,700 words per minute.",38
+1,Literature,864,That wouldn't be me! What's your favorite genre to read?,38
+1,Literature,865,Sci-fi. You?,38
+1,Literature,866,Like sci-fi. Did you know Starship Troopers is on reading list for 3 military branches? Wonder why?,38
+1,Literature,867,It's a great book and very pro military. They're also suggested Ender's Game which is an interesting breakdown of the military mindset.,38
+1,Literature,868,"Never read that one, but think I saw the movie version. Sci-fi books really engage your imagination/creativity. Agree?",38
+1,Phatic,869,"Definitely. Well, nice chatting.",38
+0,Other,870,Have you paid much attention with what's been going on with Brexit?,39
+1,Other,871,"Yeah a bit, do you think that theres reason to panic?",39
+1,Politics,872,"There are a lot of logical concerns, enough that their government released documents to help with the transition",39
+1,Politics,873,"British official assured people it was unlikely, the tarifs and friction at the border sure generates trouble",39
+1,Politics,874,Leaving the European Union will have repercussions whether it's well-planned or not. Some even fear a potential sandwich famine,39
+1,Other,875,"I agree, its something that shouldnt be taken lightly, a divorce is always nasty, specially at that scale",39
+0,Politics,876,And it affects those who have retired from Britain who live in Europe. Not to mention access to some bank accounts,39
+1,Other,877,"Yeah theres about 250,000 British retiress living in Europe, that will take a toll on them",39
+1,Other,878,"Since it happens officially in the next few weeks, I guess we'll see if the panic is actually legitimate or not",39
+1,Politics,879,"I guess things tend to be over dramaticed, do you follow the goverment?",39
+1,Politics,880,"I don't really follow them, not unless it's something large scale. That's probably why I was unaware that Wikileaks knew of the government's plans to destroy them. Unless that was a made up story",39
+1,Politics,881,"Funny how wikileaks posted the plan, that must have been frustrating to some, and I think the story is real I might have to fact check it later",39
+1,Politics,882,I guess it's not as bad as the man who sold the Eiffel Tower twice by pretending to be a French government official,39
+1,Other,883,"He must be a great con man, I have to give that to him, I bet someone felt really stupid after the purchase was done",39
+1,Other,884,Who has that much money and yet is stupid enough to fall for that? I wonder if it can even be sold,39
+1,Politics,885,"I know right, the face on the government officials must had been priceless, can you imagine that?",39
+1,Other,886,And to get away with that twice means there must have been at least two buyers,39
+1,Other,887,"Yeah at least two suckers fell for that, really funny, I wonder how they felt after realizing they fell for that",39
+1,Other,888,But they're still wealthy enough to have thought of buying it. I wonder how much money it would take to buy the 86% of Nevada that is owned by the US government,39
+1,Other,889,"I guess it would take a lot of money, it seems unfair for the government to earn that much land, people deserve a piece of land too, I pay my taxes on time that should count",39
+1,Other,890,Maybe it's land used for Native Americans. Who knows what it's actually used for. At least it's not the case in all states!,39
+1,Movies_TV,891,Hi there my friend. Do you like dramatic movies?,40
+1,Celebrities,892,"I do, I also like Hugh Laurie the actor.",40
+1,Other,893,"I do too I can't believe he made $700,000 per episode when he was doing house",40
+1,Other,894,"Woah! that is a lot, is that for real?",40
+1,Other,895,Yes that's real! That guy is definitely not worried about money. Do you know who Michael Caine is?,40
+1,Other,896,"Yeah, he played Alfred in batman, apparently he went to acting school to chase girls. LOL",40
+1,Celebrities,897,That is funny. What makes me sad is that Jim Carrey won't do dramas anymore. He only wants to do comedies to promote positivity,40
+1,Phatic,898,"Yeah, I don't think I've seen any of his dramas to be honest, which one did you like?",40
+1,Movies_TV,899,I really like The Truman Show. It does have some comedy but it's mostly a dramatic role. I think he's too goofy when he's in a comedy personally,40
+1,Movies_TV,900,"Oh yeah, I thought the Truman Show was more comedic, but I suppose it was a drama.",40
+1,Other,901,Yep it was supposed to be more drama I thought. Do you watch Netflix by the way?,40
+1,Movies_TV,902,"I do, but I just canceled my subscription. I used to love the show Billions.",40
+1,Celebrities,903,I have to check that out. I did hear good things. Pretty crazy that they have 60 million subscribers in the United States,40
+1,SciTech,904,"Yeah, that is a lot. Did you know smoking near apple computers voids their warranty?",40
+1,SciTech,905,I heard that. I think they call it a Biohazard? If it were possible would you upload your mind to a computer? People that would do that are called transhumanists,40
+1,SciTech,906,"Yeah, it might be. Is it the same for iphones?",40
+1,SciTech,907,Are you saying you would upload your brain to an iPhone? Haha maybe that is possible we'll have to see. It could be the new Apple big thing,40
+1,SciTech,908,"Well, the old Space Shuttle just ran off of 1mb of ram, why not load the brain to an iphone! Hilarious!",40
+1,SciTech,909,I like the way you think! Especially if the Russians can make a computer that runs on water back in 1936 we must be able to put our brains into iPhones haha,40
+1,Other,910,"I don't believe that is real, how is it possible, unless it is like a dam.",40
+1,Games,911,Yes I'd have to look it up. Have you ever played Minecraft apparently someone 16-bit computer in that game,40
+1,Politics,912,So do you have any feelings regarding the EPA under the current administration?,41
+1,Politics,913,"I think Their testimonies illuminate sharp contrasts between the current EPA and earlier ones, under both Republican and Democratic administrations. Is it right?",41
+1,Politics,914,There is definitely a sharp contrast between the EPA of the past and current administrations. It seems like the current EPA is more concerned with rolling back environmental protections than protecting the environment.,41
+1,Phatic,915,Of course this is acceptable.,41
+1,Politics,916,I find it extremely concerning. Did you know that the US Senate used the same gavel for 165 years until Nixon cracked it!? That gavel went through a lot.,41
+1,Politics,917,"I think During a raucous debate over atomic energy, Tricky Dicky cracked it.",41
+0,Politics,918,Possibly. Women were not allowed to wear pants on the u.s. senate floor until 1993 after senators barbara mikulski and carol moseley braun defiantly staged a protest by wearing pantsuits. 1993! That's ridiculous and extremely sexist for far longer than is acceptable.,41
+1,Phatic,919,This thing makes me interesting. Do you more about that details?,41
+1,Politics,920,Well I would have thought that mandatory skirts would have been phased out in the 60's particularly in a government organization. Senators not being able to wear pants and being required to wear skirts until 1993 is very upsetting to me and shows how slow we are to address sexism as a culture.,41
+1,Other,921,Of course this is acceptable. Do you like to hearing radio?,41
+1,Music,922,I don't listen to it as much as I used to but yes I like the radio.,41
+1,Phatic,923,I really like to hear radio.,41
+1,Music,924,"In that case, did you know that according to canadian law, all radios are required to have at least 40% of the music played be canadian?",41
+1,Music,925,"Maybe, Radio plays an important role in introducing listeners to new music and artists. CRTC policies and regulations ensure that Canadian works are played on Canadian radio stations.",41
+1,Music,926,It does help introduce new artists to people. There is a website where you can listen to thousands of episodes of classic radio dramas for free.,41
+1,Other,927,This is a good thing. I like it very much.,41
+1,Entertainment,928,I know they were once the height of entertainment but I wonder if they would still hold up today?,41
+1,News,929,Do you know Nuntii Latini is a Finnish news service that broadcasts in Latin?,41
+0,Music,930,I did not. Latin is a dead language so I wonder why they chose to do that? Who is the audience for such a thing?,41
+1,Phatic,931,"Sorry, i do not know fully about those details.",41
+1,Phatic,932,That's okay I just don't know who would know Latin to be able to listen to that.,41
+1,Politics,933,"hey there, do you go out and vote during elections?",42
+1,Phatic,934,"Hello there, I do like to get out and vote, how about you?",42
+1,Other,935,me too. do you know way back then though how people were appointed in ancient athens?,42
+1,Politics,936,I guess they were appointed by a lottery of some type.  I think they believed that elections would lead to an oligarchy.,42
+1,Phatic,937,I wonder how that would work today though.,42
+1,Phatic,938,"Yeah I don't think that would work very well, but then again, maybe it would work better, who knows.",42
+1,Politics,939,yeah there is no knowing there. In Nevada they have a none of these candidate options in the ballot.,42
+1,Politics,940,Yeah I heard that there were some wild results in the Nevada elections this year.,42
+1,Politics,941,I did not know about that one. not a lot of people seems to vote though since less than 63 people go out and vote,42
+1,Politics,942,"Isn't that pretty sad, I guess it hasn't breached that 63% barrier in the last 100 years!",42
+1,Other,943,yes it is because it is a right and we are not using it to its best.,42
+1,Politics,944,That is true.  Did you know that the taller candidate has won the presidential election 75% of the time?,42
+1,Other,945,hahaa I really wonder if that has any correlation with how people perceive the candidates,42
+1,Other,946,"Yeah I guess it must, because that is just way too high to just be chance.",42
+1,Politics,947,did you hear that international electoral observers were blocked from polls in nine states in 2012,42
+1,Politics,948,"No I didn't hear that, I wonder why they stopped doing that?",42
+1,Politics,949,"maybe they did not trust them, i have no idea. do you know when republicans and democrats started using red and blue?",42
+1,Other,950,"No I don't, but probably more than 100 years ago or so, do you know?",42
+1,Other,951,It was actually as recently as 2000 so not very long ago.,42
+1,Politics,952,"Really, wow I am really bad at politics I guess.",42
+1,Phatic,953,I did not know it either until now. It was nice chatting with you.,42
+1,Celebrities,954,Hi.  I guess Channig Tatum and Jenna Dewan Tatum are getting a divorce.  Sad.,43
+1,Other,955,"Yes, I read about that in the news. The things he says about it almost sound too good to be true...maybe it's sarcastic?",43
+1,Music,956,"Not sure... They were a good team.  I guess ""Step Up"" was a favorite for many.",43
+1,Celebrities,957,"Seems like it. I never saw it, though.They are pretty talented to be good at both acting and dancing. Singing, too?",43
+1,Music,958,"I think so, the ""Step Up"" soundtrack had high acclaim.",43
+1,Movies_TV,959,I think the movie tried to have an overall good message to be the best you can be in everything you do. Inspirational for many.,43
+1,Movies_TV,960,That's refreshing... I can see why ABC Family was mentioned.,43
+1,Entertainment,961,"Kids love to dance to soundtracks, too. I think they even have a few video games with dance and music",43
+1,Celebrities,962,"Yes, they do.  I didn't know Bruce Lee was also a great dancer.  I thought he just beat up bad guys.",43
+1,Celebrities,963,That's really cool! I think Patrick Swayze was also a multi-talented actor dancer. He was in a very famous movie and that soundtrack is also great.,43
+1,Celebrities,964,I can see him but Tupac?  I guess Tupac danced ballet in high school.  How can you hide a gun in tights?,43
+1,Celebrities,965,That sounds so crazy it might even be an urban legend! Ballet dancers go through a lot of shoes in just one week. Think how their feet feel!,43
+1,Celebrities,966,Ouch!  I guess we are all dancers to some degree.  Babies naturally dance when they hear music.,43
+1,Music,967,"I remember as kids we'd have birthday parties and dance to various Disney Soundtracks. Do they still make those, I wonder?",43
+1,Celebrities,968,"If they do, they are probably ""R"" rated.  Disney has changed for the worse.  I think it's great the Spielberg played clarinet in the Jaws soundtrack.",43
+1,Celebrities,969,"Speilberg is amazing! It wouldn't surprise me if he could dance well, too! I wonder if he'd ever play an instrument in another soundtrack?",43
+1,Music,970,"Don't know... I do know that Phil Collins recorded the Tarzan sound track in many different languages. Ilaian, German, etc.",43
+1,Entertainment,971,That's amazing! I wonder if those are all rated on Rotten Tomatoes? It's owned by WB so I wonder if it's hard on Disney or other rivals?,43
+1,Movies_TV,972,I wonder if that biases their judgement for WB productions.  No film based on video games ever got a rating above 44% from RT.,43
+1,Movies_TV,973,"If you like video games, some of those movies are pretty good, too. I didn't realize Rotten Tomatoes was started by students until recently! Brilliant!,",43
+1,Other,974,I kind of look at IMDB for ratings... Great chat! You were excellent!,43
+1,Literature,976,"Hi I'm good, what do you think about this article?",44
+1,Other,977,I think an article about DC weather is pretty narrow. Im from chicago and just got done shoveling my drive so....,44
+1,SciTech,978,"Haha, I can't relate. The only part I can relate to is to how hot it is during the summer. I'm from Florida. Have you ever used the Amazon Alexa device?",44
+1,SciTech,979,I have... It's basically my timeout timer for my kids. Did you know...The first amazon.com customer spent $27.95 and got a building named after him,44
+1,SciTech,980,I did not know until I read the article. Amazon seems to do very unusual things that make people excited. The only products I have ever bought from Amazon are electronics and toys for my kids as well. Just bought the new apple airpods!,44
+1,SciTech,981,Nice! I love my airpods. I clean my house with headphones on and I used to get my cord caught on my baby gate all the time. I got irrationally angry abut it and bought my first pair when I couldn't take any more...,44
+1,Music,982,What kind of music do you listen to? I loved rap rock back in my college days. Did you know Linkin park played 325 concerts in 2001 alone?,44
+1,Music,983,"That's a lot of shows! I listen to a lot of music. Been into EDM recently during my workouts. Also listen to metal and rock. MOstly, during my free time, I listen to podcasts. Im a nerd...",44
+1,Entertainment,984,"Oh really? I love podcasts, I love reading as well especially nonfiction because it helps me develop and practice reading strategies and comprehension.",44
+1,Music,985,"Nice. What podcasts do you listen to? In 1972, pink floyd recorded a live concert at the ancient roman amphitheater in pompeii...with no audience.",44
+1,Entertainment,986,"Oh I just listen to sports podcasts, mainly basketball ones. I did not know that. Have you ever been to a pink floyd concert?",44
+1,Entertainment,987,I have not but they are a favorite band of mine. What basketball podcast? I love sports podcasts so we're on the same page...,44
+1,Sports,988,I listen to BBallbreakdown NBA podcast. Basketball is my favorite sport so that's why I listen to it.,44
+1,Music,989,Nice. Who is the host? I listen to Dan Patrick and Dan LeBatard. I also listen to a bunch of NPR stuff. Again... nerd!,44
+1,Music,990,"Coach Nick, he gives a lot of insight for upcoming games which is what I find interesting. And that's cool. So have you ever travelled down south before?",44
+1,Food_Drink,991,I have... I really love the south. I love the food especially.,44
+1,Weather_Time,992,Which states have you been to? Its quite hot in Florida even during the winter. We typically get heavy rains weekly.,44
+1,Travel_Geo,993,I have been to Florida and Alabama and Georgia. I love Florida and plan to retire there in 20 years. Where are you in Florida?,44
+1,Travel_Geo,994,"In Tampa, its not the first city you would think of, rather you would probably think of miami as the city of Florida haha!",44
+1,Celebrities,995,"As a Le Batard fan, Miami is the first but I love the gulf coast. Want to move to clear water. Take care!",44
+1,Music,996,Do you like Orchestras ? Carlos Miguel Prieto made the conductor of the year,45
+1,Phatic,997,I don't really unless it is accompanied by dance. his performance seemed like it was going to be a defeat but suddenly became delightful,45
+1,Celebrities,998,I love dance as well. I knew Michael jackson did not do those dance moves on his own,45
+1,Celebrities,999,Yeah I always wondered how he did that. I also thought he invented the moonwalk but I guess tap dancer Bill Bailey did in 1955.,45
+1,Celebrities,1000,Wow I never knew that. Big bad Tupac danced ballet in high school,45
+1,Movies_TV,1001,"Wow, that is pretty cool. I guess they tried to teach Mr. Rogers to breakdance in one episode!",45
+1,Celebrities,1002,Lol That would have been funny to see that. did you know that Jim carrey doesn't make dramas any more ?,45
+1,Entertainment,1003,I think he is better in comedies so maybe that's not such a bad thing.,45
+1,Movies_TV,1004,his beilef system prevents him from playing in movies that don't project positivity. I admire that,45
+1,Movies_TV,1005,Interesting. I don't realy watch a lot of drama though I do like the melodrama called Ikea Heights. It's shot in the Ikea store without the store knowing. How creepy though.,45
+1,Celebrities,1006,Interesting. Well Michael caine became an actor because all the prettiest girls at his school were in drama class. It paid off anyway lol,45
+1,Celebrities,1007,"Haha, yeah I guess it did. Funny that he admitted it. Patrick Stewart teaches master classes for drama students in the UK. That would be fun!",45
+1,Celebrities,1008,I love Patrick Stewart.  There is a website where you can listen to thousands of episodes of classic radio dramas for free. I would like to find that site,45
+1,Phatic,1009,Interesting. That would be good for my commute.,45
+1,Celebrities,1010,"Yes and Hugh laurie made $700,000 per episode in house. thats a lot of money for TV",45
+1,Celebrities,1011,Nice! Do you like Emily Clarke? She did the funky chicken and robot dance at the audition for Daenerys Targaryen.,45
+1,Music,1012,I do like Emily Clarke. Do you like creed ? In 2002 a creed concert was so bad that four concert goers filed a lawsuit against the band,45
+1,Music,1013,"I used to like them. I don't really like concerts, do you?",45
+1,Entertainment,1014,I love them. I would like to go to croatia where there is an ancient roman amphitheatre that is still in use as a concert venue,45
+1,Music,1015,That sounds awesome. I would go to that venue. But I don't like concerts because they are so loud and make my ears right. In 72 Deep Purple broke the world record for loudest concert and three members of the audience were rendered unconscious.,45
+1,Music,1016,Wow.  linkin park played 324 concerts in 2001 alone.,45
+1,Sports,1017,Do you like baseball?,46
+1,Sports,1018,I do like baseball. I can't wait for the season to start. Do you like baseball?  Did you know that it evolved from a game in England?,46
+1,Sports,1019,"I do like the game, yeah, and no I didnt know that, I wonder why its not popular in England then",46
+1,Sports,1020,I don't know.  Baseball is a form of an old bat and ball game played there back in the mid-18th century.  It's weird that it's popular in the US and especially Japan and not there.,46
+1,Sports,1021,"It is odd, maybe as odd as the managers wearing uniforms in the field,",46
+1,Sports,1022,I've always wondered why they do that.  I assume it's to show team membership but I don't really know.,46
+1,Other,1023,"Its because they can also play if they think its the best thing, if the need arises they can step into th field, did you hear about that man that found 3 million dollars worth of cards in his attic",46
+1,Sports,1024,"So a manager can play?  I didn't know that.  If we are talking about the same man he found old baseball cards, right?",46
+1,Other,1025,"Yeah he found card that belonged to his grand father, they were just hidden in the attic, crazy luck right!",46
+1,Other,1026,Definitely!  Those cards had been hidden away since the 1940s!  I guess the people living there either never went in the attic or never looked around.,46
+1,Sports,1027,So you said you liked baseball so maybe like the Yankees? what are your thought on the team,46
+1,Sports,1028,"I like the Yankees.  There's some odd stuff with them though.  I mean, did you hear about the two pitchers that swapped families permanently back in 1973?",46
+1,Phatic,1029,"I didnt, why would they do that lol, that is really odd I have to Google that",46
+1,Sports,1030,"It is really odd but I guess it was the 70s  so who knows.  I've even heard there is a""lost"" yankees player.  That is especially odd to me.",46
+1,Sports,1031,"What does that even mean, a ''lost'' Yankees player? can you elaborate more about it",46
+0,Games,1032,"I really can't, sorry. I just heard that one thing, a lost player.  No one ever expanded on it to me.",46
+1,Sports,1033,"Oh I see, well nothing Google cant solve then,  you know  a player got suspended because he refused to take a haircut",46
+1,Sports,1034,No I didn't!  What player?,46
+1,Celebrities,1035,"His name was Don Mattingly, crazy right, that happened back in the year 1991",46
+1,Other,1036,"You know, I would have thought it would have been much longer ago than that.  I guess I just figured there were stricter rules on hair back in the day.",46
+1,Sports,1037,"I guess so, still sounds a bit stupid to suspend a player just because of that, I think he was a key player for the team so yeah.",46
